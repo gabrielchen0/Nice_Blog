@@ -5,10 +5,10 @@ email: youremail@example.com # your email address
 description: >
     A Simple Jekyll Blog Theme. # this means to ignore newlines until "baseurl:"
 baseurl: "/Nice_Blog" # the subpath of your site, e.g. /blog
-url: "https://itisbenjamin.github.io" # the base hostname & protocol for your site
-twitter_username: itisbenjamin1 # your Twitter username
-github_username: itisbenjamin # your Github username
-disqus_username: itisbenjamin # your disqus username
+url: "https://sirkapil.github.io" # the base hostname & protocol for your site
+twitter_username: kapil_rc # your Twitter username
+github_username: sirkapil # your Github username
+disqus_username:  # your disqus username
 
 google-analytics: UA-75034651-1 # add it if you have one
 
