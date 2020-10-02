@@ -1,7 +1,7 @@
 Welcome
 =======
 
-I think many blog themes are over designed, so I created this one. 
+I think many of the blog themes are  somewhat over designed, so I created this minimal one. 
 
 Just for using, not showing off.
 
